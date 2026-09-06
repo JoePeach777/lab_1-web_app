@@ -10,4 +10,6 @@
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned; .\venv\Scripts\Activate.ps1
 
    Вкл локального сервера
-   python manage.py runserver 
+   python manage.py runserver ```
+
+# Результат
