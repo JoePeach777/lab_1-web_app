@@ -13,3 +13,4 @@
    python manage.py runserver ```
 
 # Результат
+![Результат работы](result.png)
